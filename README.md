@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
