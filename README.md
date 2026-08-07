@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2974-minimum-number-game](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2974-minimum-number-game) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3731-find-missing-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3895-count-digit-appearances) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2974-minimum-number-game](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2974-minimum-number-game) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3731-find-missing-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -74,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 <!---LeetCode Topics End-->
