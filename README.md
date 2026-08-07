@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Hash Table
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2974-minimum-number-game) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
