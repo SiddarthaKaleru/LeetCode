@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1859-sorting-the-sentence](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2974-minimum-number-game](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2974-minimum-number-game) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
