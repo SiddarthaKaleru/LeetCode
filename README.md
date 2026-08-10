@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3731-find-missing-elements) |
