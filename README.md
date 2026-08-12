@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2315-count-asterisks) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3340-check-balanced-string](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3340-check-balanced-string) |
 | [3894-traffic-signal-color](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Matrix
 |  |
