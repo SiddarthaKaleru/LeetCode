@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1859-sorting-the-sentence) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
