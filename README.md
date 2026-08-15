@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2974-minimum-number-game) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1291-sequential-digits) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
