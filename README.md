@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 <!---LeetCode Topics End-->
