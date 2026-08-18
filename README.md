@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3895-count-digit-appearances](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3895-count-digit-appearances) |
+| [3917-count-indices-with-opposite-parity](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3917-count-indices-with-opposite-parity) |
 ## Hash Table
 |  |
 | ------- |
