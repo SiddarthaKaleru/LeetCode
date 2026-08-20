@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3502-minimum-cost-to-reach-every-position) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3894-traffic-signal-color](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
