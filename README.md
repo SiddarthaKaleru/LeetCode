@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0007-reverse-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1927-sum-game](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1927-sum-game) |
