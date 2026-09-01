@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
 | ------- |
