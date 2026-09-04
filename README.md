@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3917-count-indices-with-opposite-parity) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3903-smallest-stable-index-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
