@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0027-remove-element) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
