@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2315-count-asterisks](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2315-count-asterisks) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3904-smallest-stable-index-ii) |
