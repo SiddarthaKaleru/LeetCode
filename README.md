@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0007-reverse-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0027-remove-element) |
 | [0064-minimum-path-sum](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0015-3sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1859-sorting-the-sentence](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
