@@ -267,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
