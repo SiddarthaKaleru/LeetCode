@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3238-find-the-number-of-winning-players](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3238-find-the-number-of-winning-players) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3502-minimum-cost-to-reach-every-position) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3238-find-the-number-of-winning-players](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3238-find-the-number-of-winning-players) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3731-find-missing-elements) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3238-find-the-number-of-winning-players](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3238-find-the-number-of-winning-players) |
 ## String Matching
 |  |
 | ------- |
