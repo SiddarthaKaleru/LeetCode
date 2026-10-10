@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0414-third-maximum-number](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0015-3sum) |
+| [0414-third-maximum-number](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1859-sorting-the-sentence](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
