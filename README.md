@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3238-find-the-number-of-winning-players](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3238-find-the-number-of-winning-players) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -333,4 +335,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
