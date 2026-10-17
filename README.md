@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0152-maximum-product-subarray) |
