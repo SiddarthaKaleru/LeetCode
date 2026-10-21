@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0066-plus-one) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -358,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
