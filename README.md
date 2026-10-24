@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2409-count-days-spent-together](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2864-maximum-odd-binary-number](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2315-count-asterisks](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2315-count-asterisks) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2409-count-days-spent-together](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
