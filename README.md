@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2409-count-days-spent-together](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2427-number-of-common-factors](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2864-maximum-odd-binary-number](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1291-sequential-digits) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2427-number-of-common-factors](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -257,14 +259,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Backtracking
 |  |
 | ------- |
