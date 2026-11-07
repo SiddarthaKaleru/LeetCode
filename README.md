@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Array
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3238-find-the-number-of-winning-players](https://github.com/SiddarthaKaleru/LeetCode/tree/master/3238-find-the-number-of-winning-players) |
 ## String Matching
 |  |
