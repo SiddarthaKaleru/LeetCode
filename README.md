@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0645-set-mismatch) |
+| [1189-maximum-number-of-balloons](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1748-sum-of-unique-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SiddarthaKaleru/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/SiddarthaKaleru/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SiddarthaKaleru/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
